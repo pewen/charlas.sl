@@ -19,7 +19,8 @@ Conceptos
 
 # ¿Qué es el Software?
 
-* Breve historia
+# Breve historia
+
 * IBM imagina un negocio mundial de unas pocas computadoras al año
 * Personal computer (PC) --> Microsoft
 * Smart-Phones
