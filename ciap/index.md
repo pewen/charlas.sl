@@ -19,7 +19,7 @@ Conceptos
 
 # Breve historia
 * IBM imagina un negocio mundial de unas pocas computadoras al año
-* PC --> MS
+* Personal computer (PC) --> Microsoft
 * Smart-Phones
 * Software como Servicio
 
