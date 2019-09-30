@@ -1,13 +1,14 @@
 ---
 title: "Software Libre para el desarrollo comunitario "
-author: <br>CIAP<BR><BR><BR><BR><br><p><img src="img/cc0.png"/></p>
+author: <br><br><br><img src="img/logo-ciap.png"/><BR>30 de Septiembre 2019<BR><BR><br><p><img src="img/cc0.png"/></p>
 output: revealjs::revealjs_presentation
 ---
 # parte 0
 
 ¿Por qué hablar de esto?
 
-* Las maquinas  estan en todos lados
+* Las máquinas  están en todos lados
+* Soberanía Tecnológica
 
 # parte 1
 
@@ -27,7 +28,7 @@ Conceptos
 
 ![](img/jaula.jpg)
 
-Software que no respeta la libertad (en algun aspecto)
+Software que no respeta la libertad (en algún aspecto)
 
 # Software Libre
 
@@ -244,6 +245,8 @@ Richard Stallman
 # Chasqui
 
 Chasqui es una herramienta multiplataforma de licencia libre que está especialmente diseñada para promover y gestionar la comercialización electrónica de productos de la Economía Social y Solidaria
+
+[http://proyectochasqui.org/](http://proyectochasqui.org/)
 
 # Estándares
 
