@@ -1,8 +1,11 @@
 ---
 title: "Software Libre para el desarrollo comunitario "
 author: <br><br><br><img src="img/logo-ciap.png"/><BR>30 de Septiembre 2019<BR><BR><br><p><img src="img/cc0.png"/></p>
-output: revealjs::revealjs_presentation
+output:
+    revealjs::revealjs_presentation:
+    keep_md: TRUE
 ---
+
 # parte 0
 
 ¿Por qué hablar de esto?
@@ -16,9 +19,7 @@ Conceptos
 
 # ¿Qué es el Software?
 
-![](img/codigo_fuente_vs_binario.png)
-
-# Breve historia
+* Breve historia
 * IBM imagina un negocio mundial de unas pocas computadoras al año
 * Personal computer (PC) --> Microsoft
 * Smart-Phones
@@ -44,9 +45,13 @@ Software que no respeta la libertad (en algún aspecto)
 
 ![](img/usuarias.no.controlan.jpg)
 
-# Ejemplos
+# ¡Quién tiene el control!
+<br>
 
-[google es malware](https://www.gnu.org/proprietary/malware-google.es.html#censorship)
+[El software privativo a menudo es malware](https://www.gnu.org/proprietary/proprietary.es.html)
+<br><br><br>
+
+una lista de alrededor de 400 ejemplos de funcionalidades maliciosas
 
 # ¿Qué es el<br>Software Libre?
 
