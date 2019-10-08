@@ -231,9 +231,9 @@ Richard Stallman
 
 # parte 5
 
-# ¿Qué podemos hacer con Software Libre?
-
 ![](img/gnu.jpg)
+
+¿Qué podemos hacer con Software Libre?
 
 #
 
@@ -364,4 +364,4 @@ videos, entrevistas, libros, notas
 
 ![](img/fsfs_red-bg_es.png)
 
-[https://pewen.github.io/charlas.sl/apicultura](https://pewen.github.io/charlas.sl/apicultura)
+[https://pewen.tk/charlas.sl/apicultura](https://pewen.tk/charlas.sl/apicultura)
