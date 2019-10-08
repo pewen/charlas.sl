@@ -19,6 +19,8 @@ Conceptos
 
 # ¿Qué es el Software?
 
+![](img/codigo_fuente_vs_binario.png)
+
 # Breve historia
 
 * IBM imagina un negocio mundial de unas pocas computadoras al año
@@ -334,7 +336,7 @@ videos, entrevistas, libros, notas
 
 #
 
-[El derecho a leer (RMS)](https://www.gnu.org/philosophy/right-to-read.es.html) / [Pantallas, derechos, cultura](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Pantallas,%20derechos,%20cultura%20y%20conocimiento.pdf)
+[El derecho a leer (RMS)](https://www.gnu.org/philosophy/right-to-read.es.html) / [Pantallas, derechos, cultura](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Pantallas%2C%20derechos%2C%20cultura%20y%20conocimiento_0.pdf)
 
 [Software libre para una sociedad libre (RMS)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 
