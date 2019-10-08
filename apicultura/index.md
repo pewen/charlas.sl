@@ -56,6 +56,12 @@ Software que no respeta la libertad (en algún aspecto)
 
 una lista de alrededor de 400 ejemplos de funcionalidades maliciosas
 
+# Adobe suspende servicios a clientes en Venezuela
+
+[La empresa envió un comunicado a través de correo electrónico, donde explicaba a sus clientes en Venezuela los motivos de la suspensión de sus servicios](https://elpitazo.net/tecnologia/adobe-suspende-servicios-a-clientes-en-venezuela-por-sanciones-de-eeuu/)
+
+7 octubre, 2019
+
 # ¿Qué es el<br>Software Libre?
 
 El Software Libre es aquel que respeta la libertad de las usuarias para:
