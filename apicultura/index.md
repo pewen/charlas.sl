@@ -1,6 +1,6 @@
 ---
-title: "Software Libre para el desarrollo comunitario "
-author: 07 de Octubre 2019<BR><BR><br><p><img src="img/cc0.png"/></p>
+title: <br><br>Software Libre para el desarrollo comunitario
+author: <br><br><br><br>07 de Octubre 2019<p><img src="img/cc0.png"/></p><br>
 output:
     revealjs::revealjs_presentation:
     keep_md: TRUE
