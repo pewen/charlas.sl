@@ -348,13 +348,13 @@ videos, entrevistas, libros, notas
 
 [Códigos Cooperativos](https://youtu.be/sMI1HA9mOmc) / [Guía Práctica sobre SL (UNESCO)](https://www.vialibre.org.ar/wp-content/uploads/2007/11/gsl.pdf)
 
-[Video de Richard Stallman para el FLISOL 2009](https://vimeo.com/4152803)
+[RMS FLISOL 2009](https://vimeo.com/4152803) / [Cultura Libre. Crear, modificar, compartir](https://www.unraf.edu.ar/index.php/la-universidad/editorial-unraf/146-ediciones-001)
 
 [A qué le llamamos SL (Busaniche)](https://youtu.be/h0tXtRRW564) / [Más Moodle y menos Google](https://www.estebanmagnani.com.ar/2019/10/02/mas-moodle-y-menos-google/)
 
 [En el medio digital: Software Libre (Canal Encuentro)](https://youtu.be/NrFbtRV-rOA)
 
-[Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
+[Tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
 
 [El Software Libre como herramienta](https://www.argentina.gob.ar/noticias/el-software-libre-como-herramienta) / [Chasqui](http://proyectochasqui.org)
 
