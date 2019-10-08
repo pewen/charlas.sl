@@ -350,7 +350,7 @@ videos, entrevistas, libros, notas
 
 [Video de Richard Stallman para el FLISOL 2009](https://vimeo.com/4152803)
 
-[A qué le llamamos SL (Beatriz Busaniche)](https://youtu.be/h0tXtRRW564)
+[A qué le llamamos SL (Busaniche)](https://youtu.be/h0tXtRRW564) / [Más Moodle y menos Google](https://www.estebanmagnani.com.ar/2019/10/02/mas-moodle-y-menos-google/)
 
 [En el medio digital: Software Libre (Canal Encuentro)](https://youtu.be/NrFbtRV-rOA)
 
