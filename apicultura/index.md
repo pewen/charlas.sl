@@ -326,10 +326,6 @@ El acceso al conocimiento y la tecnología favorece círculos virtuosos de trans
 
 ![](img/manual.tec.abiertas.jpg)
 
-#
-
-![](img/mapa_conceptual_del_software_libre.svg)
-
 # referencias
 
 videos, entrevistas, libros, notas
